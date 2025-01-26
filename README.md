@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+# Chrome Extension 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Cluclose Podi
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Leya Susan Riboy - LBS Institute of Technology for Women
+- Member 2: Lekshmi L - LBS Institute of Technology for Women
+- Member 3: Meenakshi S - LBS Institute of Technology for Women
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Basically, this chrome extension to generate notes from the url given by the user.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Having to skim through long blogs and lengthy videos which consumes time and cant be effective in learning.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+A chrome extension which fetches data from the url given and generates summarized notes with kepoints.
 
 ## Technical Details
 ### Technologies/Components Used
