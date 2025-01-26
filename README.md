@@ -51,15 +51,6 @@ THIS IS THE CHROME EXTENSION THAT WE AS TEAM MADE, ONCE WE ENTER THE URL THIS EX
 
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 
 
 
