@@ -14,63 +14,41 @@
 [mention your project hosted project link here]
 
 ### Project Description
-Basically, this chrome extension to generate notes from the url given by the user.
+The Blog Summary Chrome extension is designed to help users quickly digest long articles or blog posts by converting them into short, concise summaries. This extension extracts the main content from a webpage, such as blog posts or articles, and displays a summarized version when the user clicks on the extension icon.
 
 ### The Problem statement
-Having to skim through long blogs and lengthy videos which consumes time and cant be effective in learning.
+Having to skim through long blogs and lengthy videos which consumes time and cant be effective in learning,This feature is particularly useful for users who want to save time and get the key points of an article without reading the entire content.
 
 ### The Solution
-A chrome extension which fetches data from the url given and generates summarized notes with kepoints.
+A chrome extension which fetches data from the url given and generates summarized notes with keypoints.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript,HTML,CSS,JSON
+- Tools used: VScode,github
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Flask
 
 # Run
-[commands]
+
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![IMG-20250126-WA0010 1](https://github.com/user-attachments/assets/bed9e2e2-ebb5-42bf-845d-e61e1527529c)
+THIS IS THE CHROME EXTENSION THAT WE AS TEAM MADE, ONCE WE ENTER THE URL THIS EXTENSION WILL GENERATE THE NOTES
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![IMG-20250126-WA0018 1](https://github.com/user-attachments/assets/a002dbc6-9a20-4569-8994-c729c6801654)
+
 
 
 ![Components](Add photo of your components here)
@@ -82,18 +60,8 @@ For Hardware:
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
